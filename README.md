@@ -1,2 +1,2 @@
 # MySQL
-This is the first part of a project where I cleaned and transformed the data in SQL to use it for visualisation in PowerBI
+This is the first part of a project where I cleaned and transformed the sales data in SQL and used it's final form in PowerBI Desktop.
